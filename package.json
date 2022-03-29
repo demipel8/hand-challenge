@@ -1,0 +1,17 @@
+{
+  "name": "hand-challenge-demipel8",
+  "version": "1.0.0",
+  "description": "You find a strange mirror that always shows a hand that is moving.  The hand appears to be alive, and after a lot of questions of \"yes\" and \"no\" answer, you know that the hand is trying to teach you a program that is written in HPL (Hand Programming Language).",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demipel8/hand-challenge.git"
+  },
+  "private": true,
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
